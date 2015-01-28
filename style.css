@@ -1,0 +1,46 @@
+
+.followers.row{
+	height: 60px;
+	padding: 12px 0;
+}
+
+body{
+	padding-top: 25px;
+	background-color: #f5f8fa;
+}
+
+nav{
+	padding-left: 150px;
+
+}
+
+.navrow.row{
+	height: 50px;
+	padding: 12px 12px;
+	
+}
+
+.banner{
+	padding-top: 10px;
+}
+
+.searchbar{
+	
+	margin-left: 200px;
+
+   }
+
+ .leftcontent{
+
+ 	height: 50px;
+ 	width: 50px;
+}
+
+ .table{
+ 	width: 350px;
+ 	margin-left: 200px;
+ }
+
+ .panel{
+ 	margin-top: 50px;
+ }
