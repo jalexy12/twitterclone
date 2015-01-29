@@ -1,46 +1,43 @@
 
-.followers.row{
+/*.followers.row{
 	height: 60px;
 	padding: 12px 0;
-}
+	margin-left: 150px;
+}*/
 
 body{
-	padding-top: 25px;
+	padding-top: 10px;
 	background-color: #f5f8fa;
 }
 
-nav{
-	padding-left: 150px;
+.navbar{
+	margin-left: 150px;
 
 }
 
-.navrow.row{
+/*.navrow.row{
 	height: 50px;
 	padding: 12px 12px;
 	
-}
-
+}*/
+*/
 .banner{
 	padding-top: 10px;
 }
 
-.searchbar{
-	
-	margin-left: 200px;
+.contentheading{
+	font-size: 20px;
+	margin-top: 15px;
+	margin-bottom: 40px;
 
-   }
-
- .leftcontent{
-
- 	height: 50px;
- 	width: 50px;
+}
+.tweeto{
+	width: 100px;
 }
 
- .table{
- 	width: 350px;
- 	margin-left: 200px;
- }
 
- .panel{
- 	margin-top: 50px;
+ .userNav li{
+ 	float: left;
+ 	margin-right: 10px;
+ 	font-size: 20px;
  }
